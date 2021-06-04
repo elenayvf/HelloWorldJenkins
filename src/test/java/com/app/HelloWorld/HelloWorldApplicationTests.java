@@ -6,9 +6,10 @@ import org.junit.Test;
 
 class HelloWorldApplicationTests {
 
+	String message = "Hello World!";	
+   
 	@Test
-	void contextLoads() {
-		Assert.assertTrue(true);
+	public void testPrintMessage() {
+	   Assert.assertTrue(message == "Hello World! ");
 	}
-
 }
