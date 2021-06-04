@@ -14,7 +14,7 @@ public class HelloControllerTests{
    
 	@Test
 	public void testPrintMessage() {
-	   Assert.assertEquals(HelloController.sayHello(), "Hello World! ");
+	   Assert.assertTrue(HelloController.sayHello() == "Hello World! ");
 	}
 
 
