@@ -8,6 +8,7 @@ class HelloWorldApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Assert.assertTrue(true);
 	}
 
 }
