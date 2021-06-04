@@ -1,6 +1,7 @@
 package com.app.HelloWorld.hello;
 
 import org.junit.Assert;
+import org.junit.Test;
 
 
 /** * Created by  * Sample junit test code to integrate by */
