@@ -1,7 +1,8 @@
 package com.app.HelloWorld;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+
+import org.junit.Assert;
+import org.junit.Test;
 
 @SpringBootTest
 class HelloWorldApplicationTests {
