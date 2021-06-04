@@ -4,7 +4,7 @@ package com.app.HelloWorld;
 import org.junit.Assert;
 import org.junit.Test;
 
-class HelloWorldApplicationTests {
+public class HelloWorldApplicationTests {
 
 	String message = "Hello World!";	
    
