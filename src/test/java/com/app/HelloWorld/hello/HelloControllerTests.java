@@ -1,6 +1,6 @@
 package com.app.HelloWorld.hello;
 
-import org.junit.Assert.assertEquals;
+import org.junit.Assert;
 
 
 /** * Created by  * Sample junit test code to integrate by */
