@@ -10,6 +10,6 @@ public class HelloWorldApplicationTests {
    
 	@Test
 	public void testPrintMessage() {
-	   Assert.assertTrue(message == "Hello World! ");
+	   Assert.assertTrue("Hello World! " == "Hello World! ");
 	}
 }
